@@ -82,5 +82,4 @@ let draw = () => {
     })
     
 }
-
 gameLoop();
