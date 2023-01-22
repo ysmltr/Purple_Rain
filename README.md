@@ -1,9 +1,9 @@
 # Purple_Rain
 
 
-Thanks to ​ @servetgulnaroglu
-Purple Rain by Servet Gulnaroglu on YouTube
 
+Purple Rain by Servet Gulnaroglu on YouTube
+Thanks to ​ @servetgulnaroglu
 His WebSite : https://servetg.com/
 Github Acc: https://github.com/servetgulnaroglu
 
